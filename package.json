@@ -46,7 +46,7 @@
   "dependencies": {
     "agenda": "2.0.1",
     "async": "2.6.1",
-    "axios": "0.18.1",
+    "axios": "1.13.5",
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "1.18.3",
     "bootstrap": "^4.3.1",
@@ -112,9 +112,9 @@
     "winston": "3.0.0",
     "winston-daily-rotate-file": "3.3.2",
     "winston-graylog2": "1.0.3",
-    "winston-loggly-bulk": "2.0.3",
+    "winston-loggly-bulk": "3.3.0",
     "winston-logsene": "1.2.5",
-    "winston-logzio": "1.0.8",
+    "winston-logzio": "5.0.4",
     "winston-papertrail": "1.0.5"
   },
   "devDependencies": {
